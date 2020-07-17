@@ -61,7 +61,7 @@ export default function Dashboard() {
             <AppBar position="absolute" className={clsx(classes.appBar && classes.appBarShift)}>
                 <Toolbar className={classes.toolbar}>
                     <Typography component="h1" variant="h6" color="inherit" noWrap className={classes.title}>
-                        Main
+                        Buka UsahaMu
                     </Typography>
                     <IconButton color="inherit">
                         <Badge color="secondary">
